@@ -160,14 +160,6 @@ switch (true) do {
             closeDialog 0;
         };
     };
-	
-	case (_item isEqualTo "storagesmall"): {
-        [false] call life_fnc_storageBox;
-    };
-
-    case (_item isEqualTo "storagebig"): {
-        [true] call life_fnc_storageBox;
-    };
 
     case (_item isEqualTo "fuelFull"): {
         if !(isNull objectParent player) exitWith {hint localize "STR_ISTR_RefuelInVehicle"};
