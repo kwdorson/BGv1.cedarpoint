@@ -1,0 +1,6 @@
+#include "localization.hpp"
+#include "config_master.cpp"
+#include "dialogs\maxence_interpol_add.hpp"
+#include "dialogs\maxence_interpol_edit.hpp"
+#include "dialogs\maxence_list_interpol.hpp"
+#include "dialogs\maxence_interpol_crimes.hpp"

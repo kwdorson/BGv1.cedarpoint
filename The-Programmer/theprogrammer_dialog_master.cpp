@@ -1,0 +1,5 @@
+#include "Gouvernement\dialogs.cpp" 
+#include "Iphone_X\dialogs.cpp"
+#include "Entreprise\dialogs.cpp" 
+#include "WhitelistMenu\dialogs.cpp"
+#include "Interpol\dialogs.cpp"
